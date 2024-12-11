@@ -1,0 +1,13 @@
+server:
+  port: 8009
+
+spring:
+  application:
+    name: SpringCloudAi
+  cloud:
+    ai:
+      tongyi:
+        connection:
+          # 配置在阿里云百炼里申请的api-key
+          api-key: sk-xxxxxx
+
