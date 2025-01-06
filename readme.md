@@ -1,3 +1,9 @@
+##  文章地址
+
+[Spring Cloud Alibaba AI 入门与实践](https://mp.weixin.qq.com/s/cg8I28uyml9Iu_UD3CTJGg)
+
+
+
 ## 运行环境
 
 JDK17
